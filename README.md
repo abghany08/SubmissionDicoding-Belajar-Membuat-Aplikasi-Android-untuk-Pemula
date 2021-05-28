@@ -11,7 +11,7 @@ Repository ini dibuat sebagai bahan refrensi untuk Kelas Dicoding Belajar Membua
 ![submission1_1](https://user-images.githubusercontent.com/73926625/119997855-5e509280-bffa-11eb-8a86-b8dfe7ccfd56.jpeg)
 ![submission1_2](https://user-images.githubusercontent.com/73926625/119997859-601a5600-bffa-11eb-8df6-88f66cfeac97.jpeg)
 
-# Submission Cheklist
+# Submission Checklists
 
 - Menampilkan gambar dan informasi dalam format List dengan jumlah minimal 10 item yang berbeda menggunakan **RecyclerView**.
 
