@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Premier League App</string>
+    <string name="teams_name">Team Name</string>
+    <string name="detail">About Team</string>
+    <string name="premier_league_app">Premier League App</string>
+    <string name="about">About</string>
+    <string name="profile_name">Abdul Ghany At-Tirmidzi</string>
+    <string name="profile_email">aghany08@gmail.com</string>
+    <string name="created_by">Created by Ghany At-Tirmidzi</string>
+</resources>
